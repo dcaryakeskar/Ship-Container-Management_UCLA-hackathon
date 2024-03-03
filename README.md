@@ -87,8 +87,9 @@ Queues (User Input and Background Tasks):![](Aspose.Words.39407647-49dd-4610-8d6
 - ADT Name: Queue
 - Key Operations: Enqueue, Dequeue, Peek, IsEmpty, Size
 - 
-**4.2 Screenshots** 
-
+**4.2 Screenshots**
+  
+![](https://github.com/dcaryakeskar/Ship-Container-Management_UCLA-hackathon/blob/main/Code_screenshot.jpg?raw=true)
 
 **Chapter 5: Learning, Conclusion and Future Scope** 
 
